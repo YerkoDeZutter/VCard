@@ -4,59 +4,33 @@
 }
 
 #container{
-  width: 75vw;
-  height: 50vw;
-  margin: auto;
-  //background-color: #f66;
+
 }
 
 header{
-  width: 100%;
-  height: 40%;
-  background-color:  #0064bc;
+
 }
 
 main{
-  width: 90%;
-  height: 60%;
-  margin-left: 5%;
-  background-color: #ddd;
-  border-radius: 0 0 15px 15px;
+
 }
 
 #head-con{
-  padding-top: 7%;
-  float: right;
-  text-align: center;
-  width: 60%;
-  font-size: 1.5vw;
-  line-height: 300%;
-  color: white;
+
 }
 
 img{
-  padding-left: 2.5%;
-  padding-top: 2.5%;
-  border-radius: 50%;
+
 }
 
 #about{
-  width: 45%;
-  padding-top: 10%;
-  padding-left: 5%;
-  font-size: 2.3vw;
-  float: left;
+
 }
 
 #info{
-  width: 45%;
-  padding-top: 12%;
-  float: right;
-  display: grid;
-  grid-template-columns: 25% 50%;
-  font-size: 2vw;
+
 }
 
 span, b{
-  padding-top: 10px;
+  
 }
